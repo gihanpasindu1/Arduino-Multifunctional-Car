@@ -65,7 +65,9 @@ This project combines Arduino, sensors, motors, and LEDs to make a multifunction
 
 
 Example:  
-![Car Photo](docs/car_photo.jpg)  
+![Car Photo](docs/1.jpg)  
+![Car Photo](docs/2.jpg)  
+![Car Photo](docs/3.jpg)  
 ![Circuit Diagram](Docs/Circuit_diagram.png)  
 
 ---
